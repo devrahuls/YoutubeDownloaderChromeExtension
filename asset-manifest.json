@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YoutubeDownloaderChromeExtension/static/css/main.5f26a26d.css",
+    "main.js": "/YoutubeDownloaderChromeExtension/static/js/main.f195f4fb.js",
+    "static/js/787.ee8d9d83.chunk.js": "/YoutubeDownloaderChromeExtension/static/js/787.ee8d9d83.chunk.js",
+    "index.html": "/YoutubeDownloaderChromeExtension/index.html",
+    "main.5f26a26d.css.map": "/YoutubeDownloaderChromeExtension/static/css/main.5f26a26d.css.map",
+    "main.f195f4fb.js.map": "/YoutubeDownloaderChromeExtension/static/js/main.f195f4fb.js.map",
+    "787.ee8d9d83.chunk.js.map": "/YoutubeDownloaderChromeExtension/static/js/787.ee8d9d83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f26a26d.css",
+    "static/js/main.f195f4fb.js"
+  ]
+}
